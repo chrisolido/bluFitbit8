@@ -1,5 +1,3 @@
-<p align="center"><img src="https://raw.githubusercontent.com/fedekau/terraform-with-circleci-example/staging/.images/gears.png" height="200px"></p>
-
 # terraform-with-circleci-example
 
 We all know how complex apps this days can get, so that is why I created this.
